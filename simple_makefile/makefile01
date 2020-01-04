@@ -1,0 +1,2 @@
+C_make: file01.c file02.c
+	gcc file01.c file02.c
